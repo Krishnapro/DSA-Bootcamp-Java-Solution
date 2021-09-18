@@ -13,6 +13,6 @@ public class SumDigit {
             sum +=rem;
             n /=10;
         }
-        System.out.println(sum);
+        System.out.println("sum of digit of Number= "+sum);
     }
 }
